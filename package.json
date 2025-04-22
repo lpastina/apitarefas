@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1" ,
-     "start": "node index.js 'https://apitarefas.up.railway.app'"
+     "start": "node index.js 'mongodb+srv://lpastina:forever1234@cluster0.oto7r2l.mongodb.net/tarefasDB?retryWrites=true&w=majority&appName=Cluster0'"
   },
   "author": "",
   "license": "ISC",
